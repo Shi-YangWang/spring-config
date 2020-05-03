@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-config-client/target/
+/spring-config-server/target/
